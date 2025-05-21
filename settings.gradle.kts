@@ -19,6 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "FinalCalc"
+rootProject.name = "TVCharactersApp"
 include(":app")
  
